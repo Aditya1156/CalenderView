@@ -96,6 +96,14 @@ function App() {
 - Screen reader friendly with ARIA labels
 - Good color contrast
 - Focus indicators visible
+**UI Images**
+<img width="1278" height="877" alt="image" src="https://github.com/user-attachments/assets/e70a8289-d4e5-45cc-968a-db2c55b46b67" />
+
+<img width="1317" height="872" alt="image" src="https://github.com/user-attachments/assets/9d6020c2-3f92-49d4-a190-2489e8ce3433" />
+
+<img width="1216" height="860" alt="image" src="https://github.com/user-attachments/assets/b7252609-b028-46da-a255-399be5c32211" />
+
+
 
 ## Development Challenges
 
